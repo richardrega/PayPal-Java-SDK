@@ -1,10 +1,10 @@
 CHANGELOG
 =========
-V1.1.0 (January 26, 2014)
+V1.1.0 (January 26, 2015)
 -------------------------
    * Added Payout support
 
-V1.0.0 (January 12, 2014)
+V1.0.0 (January 12, 2015)
 -------------------------
    * Merged sdk-core-java
    * Replaced java.util.logging to log4j
